@@ -6,7 +6,7 @@
 - Use SQLite to build relational databases on your computer.
 - Perform CRUD operations on relational databases using SQL.
 
-*** l
+*** 
 
 ## Key Vocab
 
